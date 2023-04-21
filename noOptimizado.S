@@ -1,4 +1,5 @@
 ;Falta: - Realizar las comprobaciones de las divisiones entre cero
+	- Ordenar bien los registros float
 ;Dudas:
 ;	- Imprimir por pantalla? No hay que imprimir nada
 ;	- ¿Hay que introducir por terminal el valor inicial y el tamaño, o se escribe directamente en las variables valor_inicial y tamanho en el script de ensamblador?
